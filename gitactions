@@ -1,0 +1,15 @@
+git add
+
+git commit -m "hello"
+
+git push -u origin {branch}
+
+
+---------
+
+
+git branch 
+
+git branch dev 
+
+git checkout dev
